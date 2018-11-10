@@ -1,0 +1,44 @@
+h1 {
+    font-family: sans-serif;
+      margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+input {
+  
+      margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+body {
+    background-color: orange;
+   
+}
+
+ul {
+    list-style-type: square;}
+li {
+    font-family: sans-serif;
+
+}
+
+li:hover {
+    background-color:  teal;
+}
+
+.clicked {
+    color: transparent;
+   text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+#listed {
+   margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+
+}
